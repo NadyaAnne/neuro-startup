@@ -2,4 +2,5 @@
 *_backup
 *Thumbs.db
 *.DS_Store
-*.zip
+/1.2. Site For Import/tmp/*
+!/1.2. Site For Import/tmp/.gitkeep
